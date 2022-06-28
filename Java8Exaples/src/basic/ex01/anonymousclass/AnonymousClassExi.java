@@ -1,5 +1,9 @@
 package basic.ex01.anonymousclass;
 
+/*
+
+ */
+
 class AnonymousClassEx {
     public static void main(String[] args) {
         print(new PrintStrImp(){
