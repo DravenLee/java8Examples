@@ -1,7 +1,6 @@
 package basic.ex04.stream;
 
 import java.util.Arrays;
-import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 /*
